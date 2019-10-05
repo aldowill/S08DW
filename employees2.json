@@ -31,13 +31,15 @@
 	    		{ "animal":"fish", "name":"Nemo" },
 	    		{ "animal":"fish", "name":"Dory" }
 		    ]
-		}
+		},
 		{
-		"Clase":"AUTOMOVIL",
-		"TIPO":"AUTO",
-		"MARCA":"ARO",
-		"MODELO":"10.4",
-		"CATEGORIA":"AUTO_CHINO E INDIO_MR6"
-		}
+		    "Clase":"AUTOMOVIL",
+		    "age":39,
+		    "pets":[
+	    		{ "animal":"dog", "name":"Simba" },
+	    		{ "animal":"fish", "name":"Nemo" },
+	    		{ "animal":"fish", "name":"Dory" }
+		    ]
+			},
     ]
 }
