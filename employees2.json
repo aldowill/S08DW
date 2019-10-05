@@ -1,7 +1,7 @@
 {
 	"employees": [
 		{	
-		    "marca":"John",
+		    "Clase":"John",
 		    "age":31,
 		    "pets":[
 				{ "animal":"dog", "name":"Fido" },
@@ -10,21 +10,21 @@
 		    ]
 		},
 		{
-		    "marca":"Juan",
+		    "Clase":"Juan",
 		    "age":30,
 		    "pets":[
 	    		{ "animal":"dog", "name":"Manta" }
 		    ]
 		},
 		{
-		    "marca":"Ada",
+		    "Clase":"Ada",
 		    "age":46,
 		    "pets":[
 	    		{ "animal":"cat", "name":"Felix" }
 		    ]
 		},
 		{
-		    "marca":"Mary",
+		    "Clase":"Mary",
 		    "age":39,
 		    "pets":[
 	    		{ "animal":"dog", "name":"Simba" },
@@ -33,11 +33,11 @@
 		    ]
 		}
 		{
-		"CLASE": "AUTOMOVIL",
-		"TIPO": "AUTO",
-		"MARCA": "ARO",
-		"MODELO": "10.4",
-		"CATEGORIA": "AUTO_CHINO E INDIO_MR6"
+		"Clase":"AUTOMOVIL",
+		"TIPO":"AUTO",
+		"MARCA":"ARO",
+		"MODELO":"10.4",
+		"CATEGORIA":"AUTO_CHINO E INDIO_MR6"
 		}
     ]
 }
