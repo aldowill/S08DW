@@ -32,14 +32,5 @@
 	    		{ "animal":"fish", "name":"Dory" }
 		    ]
 		},
-		{
-		    "Clase":"AUTOMOVIL",
-		    "age":39,
-		    "pets":[
-	    		{ "animal":"dog", "name":"Simba" },
-	    		{ "animal":"fish", "name":"Nemo" },
-	    		{ "animal":"fish", "name":"Dory" }
-		    ]
-			}
     ]
 }
