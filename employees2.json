@@ -40,6 +40,6 @@
 	    		{ "animal":"fish", "name":"Nemo" },
 	    		{ "animal":"fish", "name":"Dory" }
 		    ]
-			},
+			}
     ]
 }
